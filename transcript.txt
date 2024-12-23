@@ -1,0 +1,159 @@
+[Music]
+welcome to pseudocode
+my name is yogita sharma i am a software
+engineer and you can get to know more
+about me from the links down below
+this is the first video in the series of
+system design primer course
+today i'm going to talk about the course
+overview who is this course meant for
+what you can learn from this course what
+do you need to know in advance in order
+to
+study in this course and then we are
+going to talk about what is system
+what is design and why system design is
+needed so let's get started
+let's talk about the course overview if
+you're looking for understanding the
+basic building blocks of system design
+doesn't matter if you're a computer
+science major or you are looking
+for changing jobs or you're already
+working in the industry if you're
+looking for
+entry to system design the fundamentals
+of system design this course is for you
+the course is designed in a way where i
+will explain all the topics in details
+with real life examples
+in the videos followed by quizzes and
+exercises at the end of every video
+and then discussing these topics in
+detail via slack or through the comments
+at the end of this course you will be
+able to understand the process of system
+design in a better way the fundamental
+concepts
+and you can go on to learn and build
+large scale systems let's talk about
+what is the system a system is a loosely
+used term for an architecture or
+collection of software or technology
+that communicate with each other
+interact with each other in order to
+serve a certain set of users with a
+certain set of requirements for example
+image sharing system like instagram or
+texting like whatsapp or
+streaming systems like netflix or
+hotstar etc
+in real life also there are systems like
+buildings
+hotels hospitals theaters those are also
+examples of large scale systems which
+serve to the needs
+of certain set of users with a certain
+set of requirements all the systems beat
+real-world systems or beat computing
+systems
+have certain things in common like they
+are all built up of some
+components or modules which need to
+interact with each other and work
+together
+in order to fulfill the purpose of the
+system for example in buildings all the
+buildings have
+walls floors ceilings electrical supply
+water supply etc but different buildings
+serve different users with different set
+of requirements similarly in software
+systems
+even though basic building components
+are same but they serve
+different kind of users with different
+set of requirements so a system can be
+defined and built keeping these three
+factors in mind
+the user of the systems the requirements
+of those users
+and the components that are chosen in
+order to build that system to serve
+those users and their requirements now
+that we understand
+what a system is built off now let's
+understand what is design design is a
+process
+of understanding the user requirements
+and selecting the components
+modules and software technologies how
+they are going to be intertwined and
+communicating with each other
+to actually serve the need of the system
+that is the basic definition of design
+and that whole process of selecting
+those components understanding the needs
+of the user and the requirements
+and also factoring in different
+constraints and concerns
+that whole process entails design even
+though
+the components of systems can be same or
+the basic building blocks are same
+the design for two different systems
+looks very different
+let's say design of a duplex is going to
+look very different from design of a
+skyscraper
+similarly design of a website that
+serves a static content or just like one
+or two videos
+is going to be very different from a
+streaming platform like netflix in order
+to understand
+and develop this skill of designing
+certain kind of systems which serve to
+larger scale and larger users
+the process of system design comes into
+the picture now let's talk about
+why system design is needed as a skill
+or why system design is such a popular
+topic the whole process is actually very
+complicated it needs a lot of
+experience expertise and knowledge about
+software
+technologies etc in order to build
+successful large scale systems in real
+world actually this is not done by one
+person
+but as an engineer one should know about
+the components the trade-offs
+the problems that have to be solved the
+concerns of where systems can fail
+how to handle those failures what are
+the concerns and the constraints that
+have to be addressed and taken care
+of while designing a system so what we
+are going to do here in this course is
+we are going to pull apart the
+components of a system
+understand each component in separation
+with pros and cons and why it is used
+where it is used what are the advantages
+and disadvantages
+and then combine them together at the
+end to build a large scale system this
+is how this course is going to proceed
+so that was a short introduction to
+system design and why system design is
+needed let me know in comments what you
+liked about the video what you think
+about the process of system design and
+also there is a quiz for you
+and some readings so that you can
+understand this topic in a better way in
+the next video i am going to talk about
+components of system design till then
+take care see you in the next video
+[Music]
